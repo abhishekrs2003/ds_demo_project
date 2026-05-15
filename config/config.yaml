@@ -1,0 +1,5 @@
+test_size : 0.2
+num_classes : 2
+dataset_path : "data/heart_diseasees.csv"
+model_save_path: "model/best_model.pkl"
+random_state: 42
